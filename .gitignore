@@ -13,4 +13,5 @@ __pycache__/
 *.fls
 *.fdb_latexmk
 media/
-venv/
+venv/.env 
+.env 

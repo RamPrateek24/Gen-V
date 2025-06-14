@@ -1,0 +1,16 @@
+__pycache__/
+*.log
+*.mp4
+*.json
+*.svg
+*.aux
+*.dvi
+*.out
+*.gz
+*.nav
+*.snm
+*.toc
+*.fls
+*.fdb_latexmk
+media/
+venv/

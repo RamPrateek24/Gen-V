@@ -30,7 +30,7 @@ def main():
     save_script(code)
     print("Rendering animation...")
     render_video()
-    print("✅ Done!")
+    print("Done")
 
 if __name__ == "__main__":
     main()
